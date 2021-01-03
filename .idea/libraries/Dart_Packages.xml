@@ -2,6 +2,13 @@
   <library name="Dart Packages" type="DartPackagesLibraryType">
     <properties>
       <option name="packageNameToDirsMap">
+        <entry key="ant_icons">
+          <value>
+            <list>
+              <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/ant_icons-1.0.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="async">
           <value>
             <list>
@@ -65,6 +72,13 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter_icons">
+          <value>
+            <list>
+              <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_test">
           <value>
             <list>
@@ -76,6 +90,20 @@
           <value>
             <list>
               <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-8.10.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="http">
+          <value>
+            <list>
+              <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="http_parser">
+          <value>
+            <list>
+              <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/lib" />
             </list>
           </value>
         </entry>
@@ -97,6 +125,13 @@
           <value>
             <list>
               <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pedantic">
+          <value>
+            <list>
+              <option value="C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2/lib" />
             </list>
           </value>
         </entry>
@@ -166,6 +201,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/ant_icons-1.0.0/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0-nullsafety.1/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0-nullsafety.1/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety.3/lib" />
@@ -174,10 +210,14 @@
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety.3/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.0/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0-nullsafety.1/lib" />
+      <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-8.10.0/lib" />
+      <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2/lib" />
+      <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety.3/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.1/lib" />
+      <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.0-nullsafety.2/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0-nullsafety.1/lib" />
       <root url="file://C:/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0-nullsafety.1/lib" />
